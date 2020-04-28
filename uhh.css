@@ -185,8 +185,8 @@
 
 .custom .stick.left{
     background: url(https://gamepadviewer.com/gc-assets/left-stick.svgz);
-    width: 64px;
-    height: 64px;
+    width: 60px;
+    height: 60px;
     display: block;
     top: 111px;
     left: 93px;
